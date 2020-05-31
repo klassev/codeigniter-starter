@@ -1,0 +1,402 @@
+CRITICAL - 2020-05-31 07:09:48 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:09:50 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:33 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:34 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:34 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:34 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:35 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:35 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:35 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:10:35 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:14:42 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:14:42 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:15:02 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:15:06 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:16:38 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:16:38 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:16:39 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:16:39 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:16:39 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:16:39 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:17:35 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:17:38 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:03 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:08 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:08 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:27 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:28 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:28 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:28 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:29 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:29 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:29 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:29 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:29 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:30 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:30 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:18:30 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:21:13 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:21:14 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:21:14 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:21:14 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:21:15 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:21:15 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:21:15 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:23:53 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:26:46 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:26:48 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:27:24 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:27:33 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:27:34 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:27:52 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:27:53 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:27:54 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:28:11 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:28:12 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:28:12 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:28:30 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\Blog->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\Blog))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:33:53 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:33:56 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:33:57 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:33:57 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:33:57 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:33:57 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:33:58 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:34:31 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:34:32 --> Class 'Modulws\Blog\Config\Blog' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-05-31 07:37:11 --> Class 'Modules\Blog\Models\BlogModel' not found
+#0 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(914): Modules\Blog\Controllers\BlogController->index()
+#1 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(Modules\Blog\Controllers\BlogController))
+#2 /Users/klassev/www/blog.test/htdocs/vendor/codeigniter4/framework/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/klassev/www/blog.test/htdocs/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
